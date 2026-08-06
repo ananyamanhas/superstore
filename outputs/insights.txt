@@ -1,0 +1,26 @@
+RETAIL SALES ANALYTICS - VERIFIED INSIGHTS
+============================================================
+Every figure below is computed directly from retail_sales.db.
+
+1. The dataset covers 5009 distinct orders (9994 line items) totaling $2,297,200.86 in sales and $286,397.02 in profit (12.47% overall profit margin).
+
+2. Average order value (total sales / distinct orders) is $458.61. Average discount is 15.62%, average shipping time is 3.96 days, and 80.63% of line items are profitable.
+
+3. 2017 was the highest-sales year at $733,215.26 (12.74% margin).
+
+4. The West region leads in sales ($725,457.82), while the Central region has the lowest profit margin at 7.92%.
+
+5. Technology is the top-selling category ($836,154.03 sales, 17.40% margin). The Tables sub-category has the weakest margin among sub-categories at -8.56%.
+
+6. The Consumer segment generates the most sales ($1,161,401.34, 11.55% margin).
+
+7. The top-selling product is "Canon imageCLASS 2200 Advanced Copier" ($61,599.82 in sales). The top customer by sales is Sean Miller ($25,043.05 across 5 orders).
+
+8. 299 products are loss-making overall (negative total profit summed across all their line items), with combined losses of -$76,721.13.
+
+9. The 'High (40%+)' discount band has the highest average discount (70.03%) and a profit margin of -77.40%, illustrating how heavier discounting compresses margin.
+
+10. Same Day is the fastest shipping method (0.04 avg days) and Standard Class is the slowest (5.01 avg days).
+
+11. Pareto analysis: 414 of 1862 products (22.23% of the catalog) generate 80% of total sales.
+

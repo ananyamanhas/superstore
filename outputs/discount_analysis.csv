@@ -1,0 +1,5 @@
+discount_band,line_items,avg_discount_pct,total_sales,total_profit,profit_margin_pct
+No Discount,4798,0.0,1087908.47,320987.6,29.51
+Low (0-20%),3803,19.68,846522.24,100785.47,11.91
+Medium (20-40%),460,34.6,234137.9,-35817.47,-15.3
+High (40%+),933,70.03,128632.25,-99558.59,-77.4
